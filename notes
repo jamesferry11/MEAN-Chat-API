@@ -1,0 +1,14 @@
+
+
+1.
+May need to run docker on 27017 by opening kitematic. Open EXEC
+
+2.
+downloads/mongodb-osx-x86_64-3.4.2/bin/
+./mongo
+
+3.
+use node-angular
+show collections
+db.messages.find()
+
