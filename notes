@@ -1,7 +1,8 @@
 
 
 1.
-May need to run docker on 27017 by opening kitematic. Open EXEC
+May need to run docker on 27017 by opening kitematic. Open EXEC.
+npm start
 
 2.
 downloads/mongodb-osx-x86_64-3.4.2/bin/
