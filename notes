@@ -1,7 +1,7 @@
 
 
 1.
-May need to run docker on 27017 by opening kitematic. Open EXEC.
+Run docker on 27017 by opening kitematic. Open EXEC.
 npm start
 
 2.
